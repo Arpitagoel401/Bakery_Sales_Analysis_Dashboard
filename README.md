@@ -1,7 +1,7 @@
  # Bakery Sales Analysis Dashboard
 A comprehensive Power BI dashboard analyzing bakery sales data from 2016–2017. This project uses DAX queries and visualizations to uncover valuable insights, including sales trends, top-selling items, weekday vs. weekend sales patterns, and more.
 
-!(https://tse1.mm.bing.net/th?id=OIP.lCIlolxrW9HxztKN2VmiTAHaDt&pid=Api&P=0&h=180)
+!(https://drive.google.com/file/d/17m7DzDxgYtS_0ZUBHwKuFsQj3Y89wUZ4/view?usp=sharing)
 
 ## Features
 Key Metrics Calculated Using DAX:
